@@ -4,6 +4,7 @@ The intention of this PowerShell script is to fix any JSON file that have invali
 Here is the official list of all special characters that must be escaped:
 
 https://tools.ietf.org/html/rfc7159
+
         %x22 /          ; "    quotation mark  U+0022
         %x5C /          ; \    reverse solidus U+005C
         %x2F /          ; /    solidus         U+002F
